@@ -1,6 +1,10 @@
-# Engineering-Thesis
+# Engineering Thesis
 
-Samodzielnie stworzona aplikacja webowa, służąca do wykonywania obliczeń.<br />
-Frontend: JavaScript, TypeScript przy użyciu biblioteki React<br />
-Backend: Python z frameworkiem Django<br />
-Testy: unittest oraz Selenium<br />
+<span><b>Topic: Client-server application for calculation and presentation of solutions</b><span /><br />
+
+The main goal of enginneering thesis was to create web application, that will help users solving their mathematical problems.<br />
+
+Used technologies:<br />
+- Frontend: TypeScript + React<br />
+- Backend: Python + Django<br />
+- Tests: unittest and selenium<br />
